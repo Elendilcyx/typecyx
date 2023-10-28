@@ -9,3 +9,13 @@ https://time.geekbang.org/column/intro/116
 https://www.52pojie.cn/thread-1630549-1-1.html
 https://zhuanlan.zhihu.com/p/635875004?utm_id=0
 java17 单测 feign yaml/swagger
+https://gudaoxuri.gitbook.io/microservices-architecture/
+https://www.macrozheng.com/#/foreword/mall_foreword_01
+https://bk.tencent.com/docs/markdown/ZH/Monitor/3.8/UserGuide/ProductArchitecture/architecture.md
+单点登录 cookie session 加密证书
+https://jimmysong.io/kubernetes-handbook/usecases/istio.html
+https://www.361way.com/cloud-iam-idp/6711.html
+https://www.veitor.net/posts/sso-and-identity-federation/
+https://support.huaweicloud.com/api-apm/topic_300000002.html
+https://cloud.tencent.com/developer/article/1583799
+https://mp.weixin.qq.com/s/Sr5Wj-BCIehletz6kUeYoQ
